@@ -67,7 +67,7 @@ Ce projet est un bot Discord utilisant OAuth pour vérifier les membres et récu
 
 1. **Obtenez le rôle :**
 
-    Utilisez la commande `!getrole` sur votre serveur Discord. Le bot enverra un message privé avec un lien de vérification.
+    Utilisez la commande `!grole` sur votre serveur Discord. Le bot enverra un message privé avec un lien de vérification.
 
 2. **Vérification :**
 
